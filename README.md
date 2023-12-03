@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Microsoft Office, R
 
 ### Education
-- Undergraduate in Data Science|Universitas Pembangunan Nasional "Veteran" Jawa Timur (Jul 2021 - Jul 2025[Expected])
+- Undergraduate in Data Science|Universitas Pembangunan Nasional "Veteran" Jawa Timur (Jul 2021 - Present)
 - Natural Science|SMA Negeri 17 Surabaya (Jun 2018 - Apr 2021)
 
 ### Experience
