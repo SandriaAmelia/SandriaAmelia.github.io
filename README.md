@@ -3,10 +3,8 @@
 #### Technical Skills: Python, SQL, Microsoft Office, R
 
 ### Education
-- Universitas Pembangunan Nasional "Veteran" Jawa Timur<br>
-  Undergraduate in Data Science
-- SMA Negeri 17 Surabaya<br>
-  Natural Science
+- Undergraduate in Data Science|Universitas Pembangunan Nasional "Veteran" Jawa Timur (Jul 2021 - Jul 2025[Expected])
+- Natural Science|SMA Negeri 17 Surabaya (Jun 2018 - Apr 2021)
 
 ### Experience
 Intern @ Dinas Komunikasi dan Informatika Kediri Regency (Augt 2023 - Present)
