@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Microsoft Office, R
 
 ### Education
-- Universitas Pembangunan Nasional "Veteran" Jawa Timur
+- Universitas Pembangunan Nasional "Veteran" Jawa Timur<br>
   Undergraduate in Data Science
-- SMA Negeri 17 Surabaya
+- SMA Negeri 17 Surabaya<br>
   Natural Science
 
 ### Experience
