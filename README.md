@@ -18,14 +18,10 @@
 - Manage the administrative needs of the entrepreneurship department.
 
 ## Projects
-### Project 1
+### Penerapan Database Relasional pada Perpustakaan Berbasis Website dan Kontrol Akses
 
-Description
+Project ini adalah implementasi database relasional pada sistem perpustakaan berbasis web dengan fokus pada kontrol akses. Saya bersama rekan lainnya merancang dan mengembangkan aplikasi perpustakaan online yang menggunakan MySQL sebagai basis data dan PHP untuk pengembangan web. Dalam project ini, diterapkan kontrol akses yang memungkinkan admin untuk mengakses dan mengelola seluruh database, sementara anggota perpustakaan hanya dapat melihat daftar buku yang tersedia dan riwayat peminjaman pribadi mereka. Metode pengembangan yang digunakan adalah Software Development Life Cycle (SDLC), yang mencakup perencanaan, analisis kebutuhan, desain sistem, implementasi sistem, dan perawatan sistem. Project ini bertujuan untuk meningkatkan keamanan data pribadi pengguna dan mencegah penyalahgunaan informasi dengan mengimplementasikan kontrol akses yang tepat pada aplikasi perpustakaan online.
 
-#![Image Name](assets/img/photo.png)
+### Klasterisasi Fasilitas Kesehatan BPJS di Indonesia Menggunakan Metode K-Means Clustering
 
-### Project 2
-
-Description
-
-#![Image Name](assets/img/photo.png)
+Pada project ini saya bersama rekan lainnya melakukan klasterisasi atau pengelompokan fasilitas kesehatan yang diselenggarakan oleh BPJS (Badan Penyelenggara Jaminan Sosial) di Indonesia. Klasterisasi dilakukan menggunakan metode K-Means Clustering, suatu teknik dalam analisis data yang digunakan untuk mengelompokkan data menjadi beberapa kelompok berdasarkan kesamaan karakteristik. Dalam konteks ini, karakteristik yang menjadi dasar klasterisasi adalah jumlah dan jenis fasilitas kesehatan di setiap wilayah di Indonesia. Hasil dari klasterisasi tersebut dapat dimanfaatkan oleh pemerintah agar dapat meratakan fasilitas pelayanan kesehatan di Indonesia.
