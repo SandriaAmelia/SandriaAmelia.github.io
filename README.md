@@ -20,8 +20,8 @@
 ## Projects
 ### Penerapan Database Relasional pada Perpustakaan Berbasis Website dan Kontrol Akses
 
-Pada project ini, saya bersama rekan lainnya mengembangkan aplikasi perpustakaan berbasis web dengan MySQL dan PHP. Fokusnya yaitu pada kontrol akses untuk admin dan anggota. Metode pengembangan yang digunakan adalah SDLC, project ini meningkatkan keamanan data dan mencegah penyalahgunaan informasi dalam aplikasi perpustakaan online.
+Developing web-based library applications with MySQL and PHP. The focus is on access control for admins and members. The development method used is SDLC, this project increases data security and prevents misuse of information in online library applications.
 
 ### Klasterisasi Fasilitas Kesehatan BPJS di Indonesia Menggunakan Metode K-Means Clustering
 
-Pada project ini saya bersama rekan lainnya melakukan klasterisasi fasilitas kesehatan yang diselenggarakan oleh BPJS di Indonesia. Klasterisasi dilakukan menggunakan metode K-Means Clustering. Karakteristik yang menjadi dasar klasterisasi adalah jumlah dan jenis fasilitas kesehatan di setiap wilayah di Indonesia. Hasil dari klasterisasi tersebut dapat dimanfaatkan oleh pemerintah agar dapat meratakan fasilitas pelayanan kesehatan di Indonesia.
+Clustering health facilities organized by BPJS in Indonesia. Clustering was carried out using the K-Means Clustering method. The characteristics that are the basis for clustering are the number and type of health facilities in each region in Indonesia. The results of this clustering can be used by the government to equalize health service facilities in Indonesia.
