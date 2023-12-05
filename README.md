@@ -18,10 +18,10 @@
 - Manage the administrative needs of the entrepreneurship department.
 
 ## Projects
-### Penerapan Database Relasional pada Perpustakaan Berbasis Website dan Kontrol Akses
+### Application of Relational Databases to Website-Based Libraries and Access Control (_In Indonesian_)
 
 Developing web-based library applications with MySQL and PHP. The focus is on access control for admins and members. The development method used is SDLC, this project increases data security and prevents misuse of information in online library applications.
 
-### Klasterisasi Fasilitas Kesehatan BPJS di Indonesia Menggunakan Metode K-Means Clustering
+### Clustering of BPJS Health Facilities in Indonesia Using the K-Means Clustering Method (_In Indonesian_)
 
 Clustering health facilities organized by BPJS in Indonesia. Clustering was carried out using the K-Means Clustering method. The characteristics that are the basis for clustering are the number and type of health facilities in each region in Indonesia. The results of this clustering can be used by the government to equalize health service facilities in Indonesia.
